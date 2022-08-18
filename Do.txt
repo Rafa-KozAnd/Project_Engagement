@@ -1,0 +1,15 @@
+Bot Belial.
+
+Bot para venda de engajamento nas redes
+sociais.
+
+Enagajento = Likes, comentários, views,
+compartilhar/salvar.
+
+Tabela:
+
++ Amostra de 50 de engajamento;
++ 1k de engajamento = R$;
++ 5k de engajamento = R$;
++ 10k de engajamento = R$;
++ 20k de engajamento = R$;
