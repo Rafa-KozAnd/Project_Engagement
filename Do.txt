@@ -3,7 +3,7 @@ Bot Belial.
 Bot para venda de engajamento nas redes
 sociais.
 
-Enagajento = Likes, comentários, views,
+Engajamento = Likes, comentários, views,
 compartilhar/salvar.
 
 Tabela:
