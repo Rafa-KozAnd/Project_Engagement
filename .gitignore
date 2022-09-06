@@ -1,0 +1,5 @@
+# Base:
+.env
+*.log
+# List of Login/Password credentials (Excel):
+.xlsx
