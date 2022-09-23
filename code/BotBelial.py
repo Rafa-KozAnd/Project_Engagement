@@ -1,8 +1,8 @@
 from instapy import InstaPy
 from instapy import smart_run
 
-user = "nami_samy"
-senha = "foimtbom"
+user = ""
+senha = ""
 path = "C:\geckodriver.exe"
 
 session = InstaPy(username = user, password = senha, geckodriver_path = path)
