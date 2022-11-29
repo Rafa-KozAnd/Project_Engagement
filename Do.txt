@@ -16,11 +16,3 @@ Tabela:
 + 10k de engajamento = R$;
 + 20k de engajamento = R$;
 _______________________________________________
-
--> Ler excel, primeira coluna para login e 
-segunda para a senha.
--> Tela Inicial: solicitando o @ da pessoa,
-concatenando "https://www.instagram.com/" ao @.
-Ex: "https://www.instagram.com/rafa_kozand/"
--> Tela Inicial: quantidade de interações 
-(likes, comentários, views, compartilhar/salvar).
